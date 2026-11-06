@@ -1,0 +1,12 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Kredensial & Lingkungan
+.env
+
+# File Sistem / Editor
+.DS_Store
+.vscode/
+.idea/
+*.log
