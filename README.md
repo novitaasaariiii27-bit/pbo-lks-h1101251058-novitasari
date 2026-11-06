@@ -15,7 +15,7 @@ Sistem Informasi Perpustakaan berbasis decoupled architecture (Backend REST API 
 
 | Pertemuan | Pokok Bahasan | Link Bukti File / Commit |
 | :--- | :--- | :--- |
-| **Pertemuan 1** | Setup & Database Connection |[🔗 Link Commit](hhttps://github.com/novitaasaariiii27-bit/pbo-lks-h1101251058-novitasari/tree/main/pertemuan-01) |
+| **Pertemuan 1** | Setup & Database Connection |[🔗 Link Commit](https://github.com/novitaasaariiii27-bit/pbo-lks-h1101251058-novitasari/tree/main/pertemuan-01) |
 | **Pertemuan 2** | Core OOP (Repository & Service) | [🔗 Link Commit](https://github.com/novitaasaariiii27-bit/pbo-lks-h1101251058-novitasari/tree/main/pertemuan-02) |
 | **Pertemuan 3** | Framework & Routing | [🔗 Link Commit](https://github.com/novitaasaariiii27-bit/pbo-lks-h1101251058-novitasari/tree/main/pertemuan-03) |
 | **Pertemuan 4** | Testing Backend (cURL Script) | [🔗 Link Commit](https://github.com/novitaasaariiii27-bit/pbo-lks-h1101251058-novitasari/tree/main/pertemuan-04) |
